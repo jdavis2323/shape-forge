@@ -1,0 +1,7 @@
+{
+  companies{
+    clients {
+      name_client
+    },
+    }
+}
