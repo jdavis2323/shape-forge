@@ -1,0 +1,8 @@
+{
+  companies{
+    budgets {
+      name_budget
+      amount_budget
+    }
+    }
+}
