@@ -1,0 +1,54 @@
+{ clients {
+  budgets {
+    code_budget
+    name_budget
+    campaigns {
+      ads {
+        average_cpc
+        average_cpm
+        average_cpv
+        average_cpp
+        average_cost
+        all_conversions
+        average_position
+        all_conversion_rate
+        all_conversion_value
+        ctr
+        cost
+        clicks
+        code_ad
+        creatives {
+          body
+          code_ad
+          code_adset
+          code_account
+          code_campaign
+          code_creative
+          title_creative
+          url_tags
+        }
+        code_adset
+        clicks_link
+        conversions
+        code_adgroup
+        description1
+        description2
+        engagements
+        frequency
+        headline
+        impressions
+        interactions
+        name_ad
+        name_adgroup
+        reach
+        status
+        social_clicks
+        total_actions
+        total_unique_actions
+        unique_clicks
+        unique_inline_link_clicks
+        website_clicks        
+      }
+	}
+  }
+}}
