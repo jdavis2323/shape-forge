@@ -1,0 +1,36 @@
+{ clients {
+  budgets {
+    code_budget
+    name_budget
+    campaigns {
+      keywords {
+      	average_cpv
+        average_cpm
+        average_cpc
+        average_cost
+        all_conversions
+        average_position
+        all_conversion_rate
+        all_conversion_value
+        ctr
+        cost
+        clicks
+        cpc_bid
+        criteria
+        conversions
+        code_keyword
+        code_adgroup
+        code_account
+        engagements
+        impressions
+        interactions
+        impression_share
+        lost_impression_share_search_rank
+        quality_score
+        status
+        status_adgroup
+        type_match
+      }
+    }
+  }
+}}
