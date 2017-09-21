@@ -1,0 +1,43 @@
+{ clients {
+  budgets {
+    code_budget
+    name_budget
+    campaigns {
+      average_cpc
+      average_cpm
+      average_cpv
+      average_cpp
+      average_position
+      all_conversion_rate
+      bid_type
+      ctr
+      cost
+      clicks
+      conversions
+      clicks_link
+      code_account
+      code_campaign
+      conversion_rate
+      engagements
+      frequency
+      impressions
+      interactions
+      impression_share
+      impression_share_display
+			lost_impression_share_search_rank
+      lost_impression_share_search_budget
+      name_campaign
+      offline_interactions
+      reach
+      status
+      social_clicks
+      type_network
+      type_channel
+      total_actions
+      total_unique_actions
+      unique_clicks
+      unique_inline_link_clicks
+      website_clicks
+    }
+  }
+}}
