@@ -1,0 +1,37 @@
+# Welcome to the Shape Forge
+#
+# Use this for writing, validating, and
+# testing the Shape API.
+#
+# Type queries into this side of the screen, and you will
+# see intelligent typeaheads aware of available data and
+# live syntax and validation errors highlighted within the text.
+#
+# To bring up the auto-complete at any point, just press Ctrl-Space.
+#
+# Press the run button above, or Cmd-Enter to execute the API call, and the result
+# will appear in the pane to the right.
+
+{ clients {
+  name_client
+  budgets {
+    name_budget
+    campaigns {
+      name_campaign
+      status
+      type_network
+      type_channel
+      clicks
+      cost
+      conversions
+      average_cpc
+      average_position
+      ctr
+      clicks
+      impressions
+      cost
+      conversions
+      all_conversion_rate
+    }
+  }
+}}
